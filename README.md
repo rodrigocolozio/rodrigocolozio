@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @rodrigocolozio
+### 👋 Hi. 
+###    Welcome to my github! I'm Rodrigo!
 - 👀 I’m interested in Back end Development 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Back End projects.
-- 📫 How to reach me: you can e-mail me at rodrigocolozio@gmail.com
 
+###  📫 How to reach me:
+
+<div>
+  <a href="https://www.instagram.com/rodcolozio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto: rodrigocolozio@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/rodrigo-colozio-24275216a/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+</div>
 
 
 
