@@ -3,7 +3,7 @@
 - 👀 I’m interested in iOS Development and Back end Development. 
 - 🌱 I'm currently leaning Swift, UIKit and SwiftUI.
 - 💞️ I'm looking to collaborate on iOS projects and Back End projects on Java applications.
-- 🌱 I’m currently learning Java
+
 
 
 ### Currently working on a ToDo App called Things
