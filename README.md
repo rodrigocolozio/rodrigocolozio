@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning Java
 
 
+### Currently working on a ToDo App called Things
+
+
 ###  📫 How to reach me:
 
 <div>
