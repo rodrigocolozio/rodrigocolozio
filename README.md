@@ -1,8 +1,10 @@
 ### 👋 Hi. 
-###    Welcome to my github! I'm Rodrigo!
-- 👀 I’m interested in Back end Development 
+###    Welcome to my github! I'm Rodrigo - iOS Developer.
+- 👀 I’m interested in iOS Development and Back end Development. 
+- 🌱 I'm currently leaning Swift, UIKit and SwiftUI.
+- 💞️ I'm looking to collaborate on iOS projects and Back End projects on Java applications.
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Back End projects.
+
 
 ###  📫 How to reach me:
 
