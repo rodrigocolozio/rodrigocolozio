@@ -6,10 +6,16 @@
 
 
 
-### Currently working on a ToDo App called Things
+### Currently working on a appp called Workount, it's a fitness tracker that helps on your workout routine
+- Check out my project: <a href="https://fuchsia-polygon-4653.squarespace.com/workount-1">Workount App</a>
+
 
 
 ###  📫 How to reach me:
+
+<a href="https://linktr.ee/rodrigocolozio">Access my website</a>
+
+<span> Or just click on the following images:</span>
 
 <div>
   <a href="https://www.instagram.com/rodcolozio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
