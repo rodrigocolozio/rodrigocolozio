@@ -1,7 +1,7 @@
 ### 👋 Hi. 
 ###    Welcome to my github! I'm Rodrigo - iOS Developer.
 - 👀 I’m interested in iOS Development. 
-- 🌱 I'm currently working with UIKit and leaning SwiftUI.
+- 🌱 I'm currently working with UIKit and learning SwiftUI.
 - 💞️ I'm looking to collaborate on iOS projects and Back End projects on Java applications.
 
 
