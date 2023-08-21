@@ -1,11 +1,13 @@
 ### 👋 Hi. 
-###    Welcome to my github! I'm Rodrigo - iOS Developer.
-- 👀 I’m interested in iOS Development. 
-- 🌱 I'm currently working with UIKit and learning SwiftUI.
-- 💞️ I'm looking to collaborate on iOS projects and Back End projects on Java applications.
+###    Welcome to my github! I'm Rodrigo - Cybersecurity Analyst / Pentester / Bug Bounty Hunter
+
+- 👀 I’m interested in Pentesting and cybersecurty analisty. 
+- 🌱 I'm currently working with bug bounty programs on Bugcrowd and Hackerone.
+- 💞️ I'm looking to collaborate on any cybersecurity projects.
 
 
 
+My background as a Mobile Developer:
 ### Currently working on a appp called Workount, it's a fitness tracker that helps on your workout routine
 - Check out my project: <a href="https://fuchsia-polygon-4653.squarespace.com/workount-1">Workount App</a>
 
