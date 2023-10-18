@@ -1,15 +1,16 @@
 ### 👋 Hi. 
-###    Welcome to my github! I'm Rodrigo - Cybersecurity Analyst / Pentester / Bug Bounty Hunter
+###    Welcome to my github! I'm Rodrigo - Cybersecurity Analyst / SOC / Pentester
 
 - 👀 I’m interested in Pentesting and cybersecurty analisty. 
 - 🌱 I'm currently working with bug bounty programs on Bugcrowd and Hackerone.
 - 💞️ I'm looking to collaborate on any cybersecurity projects.
 
+I post some articles about cybersecurity, if you want to check it out: <a href="https://medium.com/@rodrigocolozio">My Medium Profile :)</a>
 
 
-My background as a Mobile Developer:
-### Currently working on a appp called Workount, it's a fitness tracker that helps on your workout routine
-- Check out my project: <a href="https://fuchsia-polygon-4653.squarespace.com/workount-1">Workount App</a>
+
+### Currently working on automate python script to analyze log files, I'll share them soon
+
 
 
 
