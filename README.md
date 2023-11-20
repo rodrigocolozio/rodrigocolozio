@@ -9,7 +9,7 @@ I post some articles about cybersecurity, if you want to check it out: <a href="
 
 
 
-### Currently working on automate python script to analyze log files, I'll share them soon
+### Currently working on automation scripts with python to perform cybersecurity tasks quicker and easier. Feel free to check them out <a href="https://github.com/rodrigocolozio?tab=stars">My scripts</a>
 
 
 
