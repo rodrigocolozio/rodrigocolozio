@@ -1,9 +1,8 @@
-### 👋 Hi. 
-###    Welcome to my github! I'm Rodrigo - Cybersecurity Analyst / SOC / Pentester
+###      TRUE5
+###  👋  Focusing on pentesting 
+true5mail@proton.me
 
-- 👀 I’m interested in Pentesting and cybersecurty analisty. 
-- 🌱 I'm currently working with bug bounty programs on Bugcrowd and Hackerone.
-- 💞️ I'm looking to collaborate on any cybersecurity projects.
+
 
 I post some articles about cybersecurity, if you want to check it out: <a href="https://medium.com/@rodrigocolozio">My Medium Profile :)</a>
 
