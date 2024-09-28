@@ -1,5 +1,5 @@
 ###      TRUE5
-###  👋  Focusing on pentesting 
+###  👋  Focusing on pentesting and offsec  
 true5mail@proton.me
 
 
@@ -8,7 +8,7 @@ I post some articles about cybersecurity, if you want to check it out: <a href="
 
 
 
-### Currently working on automation scripts with python to perform cybersecurity tasks quicker and easier. Feel free to check them out <a href="https://github.com/rodrigocolozio?tab=stars">My scripts</a>
+### Currently working as a pentester, and as side projects, working on automation scriptsv to perform cybersecurity tasks quicker and easier. Feel free to check them out <a href="https://github.com/rodrigocolozio?tab=stars">My scripts</a>
 
 
 
@@ -17,25 +17,18 @@ I post some articles about cybersecurity, if you want to check it out: <a href="
 
 <a href="https://linktr.ee/rodrigocolozio">Access my website</a>
 
-<span> Or just click on the following images:</span>
-
-<div>
-  <a href="https://www.instagram.com/rodcolozio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto: rodrigocolozio@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/rodrigo-colozio-24275216a/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
-</div>
-
-
 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+
 
 
 
