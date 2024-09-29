@@ -8,7 +8,7 @@ I post some articles about cybersecurity, if you want to check it out: <a href="
 
 
 
-### Currently working as a pentester, and as side projects, working on automation scriptsv to perform cybersecurity tasks quicker and easier. Feel free to check them out <a href="https://github.com/rodrigocolozio?tab=stars">My scripts</a>
+### Currently working as a pentester, and as side projects, working on automation scripts to perform cybersecurity tasks quicker and easier. Feel free to check them out <a href="https://github.com/rodrigocolozio?tab=stars">My scripts</a>
 
 
 
