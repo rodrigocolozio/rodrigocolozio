@@ -13,9 +13,9 @@ I post some articles about cybersecurity, if you want to check it out: <a href="
 
 
 
-###  📫 How to reach me:
+###  📫 More about me:
 
-<a href="https://linktr.ee/rodrigocolozio">Access my website</a>
+<a href="rodrigocolozio.github.io">Access my website</a>
 
 
 ### 🧰 Languages and Tools
