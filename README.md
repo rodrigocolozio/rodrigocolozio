@@ -1,16 +1,12 @@
-###      TRUE5
+###      gugx75
 ###  👋  Focusing on pentesting and offsec  
-true5mail@proton.me
-
 
 
 I post some articles about cybersecurity, if you want to check it out: <a href="https://medium.com/@rodrigocolozio">My Medium Profile :)</a>
 
 
 
-### Currently working as a pentester, and as side projects, working on automation scripts to perform cybersecurity tasks quicker and easier. Feel free to check them out <a href="https://github.com/rodrigocolozio?tab=stars">My scripts</a>
-
-
+### Currently working as a pentester, and as side projects, working on automation scripts to perform cybersecurity tasks quicker and easier.
 
 
 ###  📫 More about me:
